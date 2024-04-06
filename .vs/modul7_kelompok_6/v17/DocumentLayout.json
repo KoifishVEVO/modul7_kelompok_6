@@ -3,12 +3,8 @@
   "WorkspaceRootPath": "C:\\Users\\LENOVO\\Downloads\\skool tugas\\Semester 4\\Konstruksi\\tp\\mod7\\modul7_kelompok_6\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{F51C92A5-CF8E-4610-95FC-6E8934628456}|modul7_kelompok_6\\modul7_kelompok_6.csproj|c:\\users\\lenovo\\downloads\\skool tugas\\semester 4\\konstruksi\\tp\\mod7\\modul7_kelompok_6\\modul7_kelompok_6\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F51C92A5-CF8E-4610-95FC-6E8934628456}|modul7_kelompok_6\\modul7_kelompok_6.csproj|solutionrelative:modul7_kelompok_6\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F51C92A5-CF8E-4610-95FC-6E8934628456}|modul7_kelompok_6\\modul7_kelompok_6.csproj|c:\\users\\lenovo\\downloads\\skool tugas\\semester 4\\konstruksi\\tp\\mod7\\modul7_kelompok_6\\modul7_kelompok_6\\jurnal7_2_1302220046.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{F51C92A5-CF8E-4610-95FC-6E8934628456}|modul7_kelompok_6\\modul7_kelompok_6.csproj|solutionrelative:modul7_kelompok_6\\jurnal7_2_1302220046.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+      "AbsoluteMoniker": "D:0:0:{F51C92A5-CF8E-4610-95FC-6E8934628456}|modul7_kelompok_6\\modul7_kelompok_6.csproj|c:\\users\\lenovo\\downloads\\skool tugas\\semester 4\\konstruksi\\tp\\mod7\\modul7_kelompok_6\\modul7_kelompok_6\\jurnal7_3_1302220046.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{F51C92A5-CF8E-4610-95FC-6E8934628456}|modul7_kelompok_6\\modul7_kelompok_6.csproj|solutionrelative:modul7_kelompok_6\\jurnal7_3_1302220046.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{F51C92A5-CF8E-4610-95FC-6E8934628456}|modul7_kelompok_6\\modul7_kelompok_6.csproj|c:\\users\\lenovo\\downloads\\skool tugas\\semester 4\\konstruksi\\tp\\mod7\\modul7_kelompok_6\\modul7_kelompok_6\\datamahasiswa_1302220046.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -19,8 +15,20 @@
       "RelativeMoniker": "D:0:0:{F51C92A5-CF8E-4610-95FC-6E8934628456}|modul7_kelompok_6\\modul7_kelompok_6.csproj|solutionrelative:modul7_kelompok_6\\jurnal7_1_1302220046.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{F51C92A5-CF8E-4610-95FC-6E8934628456}|modul7_kelompok_6\\modul7_kelompok_6.csproj|c:\\users\\lenovo\\downloads\\skool tugas\\semester 4\\konstruksi\\tp\\mod7\\modul7_kelompok_6\\modul7_kelompok_6\\teammembers_1302220046.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F51C92A5-CF8E-4610-95FC-6E8934628456}|modul7_kelompok_6\\modul7_kelompok_6.csproj|solutionrelative:modul7_kelompok_6\\teammembers_1302220046.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F51C92A5-CF8E-4610-95FC-6E8934628456}|modul7_kelompok_6\\modul7_kelompok_6.csproj|c:\\users\\lenovo\\downloads\\skool tugas\\semester 4\\konstruksi\\tp\\mod7\\modul7_kelompok_6\\modul7_kelompok_6\\jurnal7_2_1302220046.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{F51C92A5-CF8E-4610-95FC-6E8934628456}|modul7_kelompok_6\\modul7_kelompok_6.csproj|solutionrelative:modul7_kelompok_6\\jurnal7_2_1302220046.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{F51C92A5-CF8E-4610-95FC-6E8934628456}|modul7_kelompok_6\\modul7_kelompok_6.csproj|c:\\users\\lenovo\\downloads\\skool tugas\\semester 4\\konstruksi\\tp\\mod7\\modul7_kelompok_6\\modul7_kelompok_6\\modul7_kelompok_6.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
       "RelativeMoniker": "D:0:0:{F51C92A5-CF8E-4610-95FC-6E8934628456}|modul7_kelompok_6\\modul7_kelompok_6.csproj|solutionrelative:modul7_kelompok_6\\modul7_kelompok_6.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F51C92A5-CF8E-4610-95FC-6E8934628456}|modul7_kelompok_6\\modul7_kelompok_6.csproj|c:\\users\\lenovo\\downloads\\skool tugas\\semester 4\\konstruksi\\tp\\mod7\\modul7_kelompok_6\\modul7_kelompok_6\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F51C92A5-CF8E-4610-95FC-6E8934628456}|modul7_kelompok_6\\modul7_kelompok_6.csproj|solutionrelative:modul7_kelompok_6\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -30,11 +38,37 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
+              "Title": "jurnal7_3_1302220046.json",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Downloads\\skool tugas\\Semester 4\\Konstruksi\\tp\\mod7\\modul7_kelompok_6\\modul7_kelompok_6\\jurnal7_3_1302220046.json",
+              "RelativeDocumentMoniker": "modul7_kelompok_6\\jurnal7_3_1302220046.json",
+              "ToolTip": "C:\\Users\\LENOVO\\Downloads\\skool tugas\\Semester 4\\Konstruksi\\tp\\mod7\\modul7_kelompok_6\\modul7_kelompok_6\\jurnal7_3_1302220046.json",
+              "RelativeToolTip": "modul7_kelompok_6\\jurnal7_3_1302220046.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-04-06T02:09:46.365Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "TeamMembers_1302220046.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Downloads\\skool tugas\\Semester 4\\Konstruksi\\tp\\mod7\\modul7_kelompok_6\\modul7_kelompok_6\\TeamMembers_1302220046.cs",
+              "RelativeDocumentMoniker": "modul7_kelompok_6\\TeamMembers_1302220046.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Downloads\\skool tugas\\Semester 4\\Konstruksi\\tp\\mod7\\modul7_kelompok_6\\modul7_kelompok_6\\TeamMembers_1302220046.cs",
+              "RelativeToolTip": "modul7_kelompok_6\\TeamMembers_1302220046.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-06T02:09:05.843Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "jurnal7_2_1302220046.json",
               "DocumentMoniker": "C:\\Users\\LENOVO\\Downloads\\skool tugas\\Semester 4\\Konstruksi\\tp\\mod7\\modul7_kelompok_6\\modul7_kelompok_6\\jurnal7_2_1302220046.json",
               "RelativeDocumentMoniker": "modul7_kelompok_6\\jurnal7_2_1302220046.json",
@@ -42,36 +76,38 @@
               "RelativeToolTip": "modul7_kelompok_6\\jurnal7_2_1302220046.json",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAbAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-04-06T01:24:05.179Z"
+              "WhenOpened": "2024-04-06T01:24:05.179Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "DataMahasiswa_1302220046.cs",
               "DocumentMoniker": "C:\\Users\\LENOVO\\Downloads\\skool tugas\\Semester 4\\Konstruksi\\tp\\mod7\\modul7_kelompok_6\\modul7_kelompok_6\\DataMahasiswa_1302220046.cs",
               "RelativeDocumentMoniker": "modul7_kelompok_6\\DataMahasiswa_1302220046.cs",
               "ToolTip": "C:\\Users\\LENOVO\\Downloads\\skool tugas\\Semester 4\\Konstruksi\\tp\\mod7\\modul7_kelompok_6\\modul7_kelompok_6\\DataMahasiswa_1302220046.cs",
               "RelativeToolTip": "modul7_kelompok_6\\DataMahasiswa_1302220046.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAiAAAA",
+              "ViewState": "AQIAABoAAAAAAAAAAAAswA8AAAAiAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-06T01:15:01.179Z"
+              "WhenOpened": "2024-04-06T01:15:01.179Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 6,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\LENOVO\\Downloads\\skool tugas\\Semester 4\\Konstruksi\\tp\\mod7\\modul7_kelompok_6\\modul7_kelompok_6\\Program.cs",
               "RelativeDocumentMoniker": "modul7_kelompok_6\\Program.cs",
               "ToolTip": "C:\\Users\\LENOVO\\Downloads\\skool tugas\\Semester 4\\Konstruksi\\tp\\mod7\\modul7_kelompok_6\\modul7_kelompok_6\\Program.cs",
               "RelativeToolTip": "modul7_kelompok_6\\Program.cs",
-              "ViewState": "AQIAABAAAAAAAAAAAAAgwCQAAAABAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAjAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-04-06T00:45:15.836Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "modul7_kelompok_6.csproj",
               "DocumentMoniker": "C:\\Users\\LENOVO\\Downloads\\skool tugas\\Semester 4\\Konstruksi\\tp\\mod7\\modul7_kelompok_6\\modul7_kelompok_6\\modul7_kelompok_6.csproj",
               "RelativeDocumentMoniker": "modul7_kelompok_6\\modul7_kelompok_6.csproj",
@@ -79,11 +115,12 @@
               "RelativeToolTip": "modul7_kelompok_6\\modul7_kelompok_6.csproj",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAfAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-04-06T01:20:16.365Z"
+              "WhenOpened": "2024-04-06T01:20:16.365Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 2,
               "Title": "jurnal7_1_1302220046.json",
               "DocumentMoniker": "C:\\Users\\LENOVO\\Downloads\\skool tugas\\Semester 4\\Konstruksi\\tp\\mod7\\modul7_kelompok_6\\modul7_kelompok_6\\jurnal7_1_1302220046.json",
               "RelativeDocumentMoniker": "modul7_kelompok_6\\jurnal7_1_1302220046.json",
@@ -91,7 +128,8 @@
               "RelativeToolTip": "modul7_kelompok_6\\jurnal7_1_1302220046.json",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAANAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-04-06T00:54:32.934Z"
+              "WhenOpened": "2024-04-06T00:54:32.934Z",
+              "EditorCaption": ""
             }
           ]
         }
