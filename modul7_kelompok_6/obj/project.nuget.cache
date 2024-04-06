@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "TcQVJPt60JEJAvGTZnX4O2OcgpjjM+ySniOysrVlHikxaLi6VqmkmksapMS76/dpHpb9KGjmw1kMGzOhpVsDvw==",
+  "dgSpecHash": "1MEaujTt+/hvy3UmyNwRnEFjK/bwnpxB5h01nuXLs1sE89Iy4RJGmdpY10VKKuPjjVQAme/OwZucXt1HfptaPg==",
   "success": true,
   "projectFilePath": "C:\\Users\\LENOVO\\Downloads\\skool tugas\\Semester 4\\Konstruksi\\tp\\mod7\\modul7_kelompok_6\\modul7_kelompok_6\\modul7_kelompok_6.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\LENOVO\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
   "logs": []
 }
