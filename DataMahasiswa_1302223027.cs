@@ -26,7 +26,7 @@ namespace modul7_kelompok_6
 
         public void ReadJSON()
         {
-            string jsonContent = File.ReadAllText("D:\\praktikum kpl\\modul7_kelompok_6\\modul7_kelompok_6\\jurnal7_1_1302223027.json");
+            string jsonContent = File.ReadAllText("D:\\praktikum kpl\\modul7_kelompok6\\jurnal7_1_1302223027.json");
             DataMahasiswa_1302223027 data = JsonConvert.DeserializeObject<DataMahasiswa_1302223027>(jsonContent);
 
             firstName = data.firstName;

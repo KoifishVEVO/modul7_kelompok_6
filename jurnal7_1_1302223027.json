@@ -1,0 +1,41 @@
+{
+   "firstName": "kevin",
+   "lastName": "albany",
+   "gender": "male",
+   "age": 20,
+   "address": {
+       "streetAddress": "cilebut",
+       "city": "bogor",
+       "state": "West Java"
+   },
+   "courses": [
+    {
+        "code": "CRI2C4",
+        "name": "Konstruksi Perangkat Lunak"
+      },
+      {
+        "code": "CRJ2G3",
+        "name": "Dasar Jaringan Komputer"
+      },
+      {
+        "code": "CRI2E4",
+        "name": "Basis Data"
+      },
+      {
+        "code": "CRI3J2",
+        "name": "Bahasa Inggris Writting and Speaking"
+      },
+      {
+        "code": "CII3B4",
+        "name": "Pemerograman Berbasis Objek"
+      },
+      {
+        "code": "CRJ2H3",
+        "name": "Pengalaman Pengguna"
+      },
+      {
+        "code": "CRI2F2",
+        "name": "Proyek Tingkat Dua"
+      }
+   ]
+}
