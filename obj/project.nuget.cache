@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "S91rDLWBlrwNsBDdADNodwsL5Jy5zDRopB/AXzPvf3yuZtNrPmDioQ1UKwr0SkNKtWFCOR3D4KdwptY3EtUgQQ==",
+  "success": true,
+  "projectFilePath": "D:\\praktikum kpl\\modul7_kelompok6\\modul7_kelompok6.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\kevin\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

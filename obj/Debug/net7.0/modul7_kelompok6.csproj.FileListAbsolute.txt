@@ -1,0 +1,17 @@
+D:\praktikum kpl\modul7_kelompok6\bin\Debug\net7.0\modul7_kelompok6.exe
+D:\praktikum kpl\modul7_kelompok6\bin\Debug\net7.0\modul7_kelompok6.deps.json
+D:\praktikum kpl\modul7_kelompok6\bin\Debug\net7.0\modul7_kelompok6.runtimeconfig.json
+D:\praktikum kpl\modul7_kelompok6\bin\Debug\net7.0\modul7_kelompok6.dll
+D:\praktikum kpl\modul7_kelompok6\bin\Debug\net7.0\modul7_kelompok6.pdb
+D:\praktikum kpl\modul7_kelompok6\obj\Debug\net7.0\modul7_kelompok6.GeneratedMSBuildEditorConfig.editorconfig
+D:\praktikum kpl\modul7_kelompok6\obj\Debug\net7.0\modul7_kelompok6.AssemblyInfoInputs.cache
+D:\praktikum kpl\modul7_kelompok6\obj\Debug\net7.0\modul7_kelompok6.AssemblyInfo.cs
+D:\praktikum kpl\modul7_kelompok6\obj\Debug\net7.0\modul7_kelompok6.csproj.CoreCompileInputs.cache
+D:\praktikum kpl\modul7_kelompok6\obj\Debug\net7.0\modul7_kelompok6.dll
+D:\praktikum kpl\modul7_kelompok6\obj\Debug\net7.0\refint\modul7_kelompok6.dll
+D:\praktikum kpl\modul7_kelompok6\obj\Debug\net7.0\modul7_kelompok6.pdb
+D:\praktikum kpl\modul7_kelompok6\obj\Debug\net7.0\modul7_kelompok6.genruntimeconfig.cache
+D:\praktikum kpl\modul7_kelompok6\obj\Debug\net7.0\ref\modul7_kelompok6.dll
+D:\praktikum kpl\modul7_kelompok6\bin\Debug\net7.0\Newtonsoft.Json.dll
+D:\praktikum kpl\modul7_kelompok6\obj\Debug\net7.0\modul7_kelompok6.csproj.AssemblyReference.cache
+D:\praktikum kpl\modul7_kelompok6\obj\Debug\net7.0\modul7_kelompok6.csproj.CopyComplete
