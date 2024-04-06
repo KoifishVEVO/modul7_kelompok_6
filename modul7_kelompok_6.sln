@@ -3,7 +3,12 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.9.34616.47
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "modul7_kelompok_6", "modul7_kelompok_6\modul7_kelompok_6.csproj", "{F51C92A5-CF8E-4610-95FC-6E8934628456}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "modul7_kelompok_6", "modul7_kelompok_6\modul7_kelompok_6.csproj", "{F51C92A5-CF8E-4610-95FC-6E8934628456}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution", "Solution", "{BBF5D3FD-3BA7-40FA-B0A1-3F8F5E2AE753}"
+	ProjectSection(SolutionItems) = preProject
+		jurnal7_1_1302220018.json = jurnal7_1_1302220018.json
+	EndProjectSection
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
