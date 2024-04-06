@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\Users\\LENOVO\\Downloads\\skool tugas\\Semester 4\\Konstruksi\\tp\\mod7\\modul7_kelompok_6\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{F51C92A5-CF8E-4610-95FC-6E8934628456}|modul7_kelompok_6\\modul7_kelompok_6.csproj|c:\\users\\lenovo\\downloads\\skool tugas\\semester 4\\konstruksi\\tp\\mod7\\modul7_kelompok_6\\modul7_kelompok_6\\jurnal7_1_1302220046.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{F51C92A5-CF8E-4610-95FC-6E8934628456}|modul7_kelompok_6\\modul7_kelompok_6.csproj|solutionrelative:modul7_kelompok_6\\jurnal7_1_1302220046.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{F51C92A5-CF8E-4610-95FC-6E8934628456}|modul7_kelompok_6\\modul7_kelompok_6.csproj|c:\\users\\lenovo\\downloads\\skool tugas\\semester 4\\konstruksi\\tp\\mod7\\modul7_kelompok_6\\modul7_kelompok_6\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F51C92A5-CF8E-4610-95FC-6E8934628456}|modul7_kelompok_6\\modul7_kelompok_6.csproj|solutionrelative:modul7_kelompok_6\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
@@ -19,6 +23,19 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "jurnal7_1_1302220046.json",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Downloads\\skool tugas\\Semester 4\\Konstruksi\\tp\\mod7\\modul7_kelompok_6\\modul7_kelompok_6\\jurnal7_1_1302220046.json",
+              "RelativeDocumentMoniker": "modul7_kelompok_6\\jurnal7_1_1302220046.json",
+              "ToolTip": "C:\\Users\\LENOVO\\Downloads\\skool tugas\\Semester 4\\Konstruksi\\tp\\mod7\\modul7_kelompok_6\\modul7_kelompok_6\\jurnal7_1_1302220046.json",
+              "RelativeToolTip": "modul7_kelompok_6\\jurnal7_1_1302220046.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-04-06T00:54:32.934Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\LENOVO\\Downloads\\skool tugas\\Semester 4\\Konstruksi\\tp\\mod7\\modul7_kelompok_6\\modul7_kelompok_6\\Program.cs",
               "RelativeDocumentMoniker": "modul7_kelompok_6\\Program.cs",

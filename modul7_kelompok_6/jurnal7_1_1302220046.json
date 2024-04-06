@@ -1,0 +1,39 @@
+{
+   "firstName": "Farhan",
+   "lastName": "Ismali",
+   "gender": "male",
+   "age": 20,
+   "address": {
+       "streetAddress": "Lengkong",
+       "city": "Bandung",
+       "state": "West Java"
+   },
+   "courses": [
+       { "code": "CRI2C4", "name": "Konstruksi Perangkat Lunak" },
+    {
+      "code": "CRI3J2",
+      "name": "Bahasa Inggris"
+    },
+    {
+      "code": "CRI2E4",
+      "name": "Basis Data"
+    },
+    {
+      "code": "CRJ2G3",
+      "name": "Dasar Jaringan Komputer"
+    },
+    {
+      "code": "CRI3B4",
+      "name": "Pemrograman Berorientasi Objek"
+    },
+    {
+      "code": "CRJ2H3",
+      "name": "Pengalaman Pengguna"
+    },
+    {
+      "code": "CRI2F2",
+      "name": "Proyek Tingkat II"
+    }
+
+   ]
+}
