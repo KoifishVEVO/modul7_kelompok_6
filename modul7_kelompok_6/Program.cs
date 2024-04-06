@@ -1,4 +1,5 @@
-﻿using System;
+﻿using modul7_kelompok_6;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -24,6 +25,14 @@ namespace TP_Modul_07_CoffeJava
                 Console.WriteLine("Nama : " + course.name);
             }
 
+
+            
+           TeamsMembers_1302220018 teams = new TeamsMembers_1302220018();
+            Console.WriteLine("Team Member List:");
+            foreach (var member in teams.ReadJson().members)
+            {
+                Console.WriteLine(member.nim + " " + member.firstName + " " + member.lastName + " " + "(" + member.age+  " " + member.gender + ")"); 
+            }
         }
     }
 }
